@@ -82,7 +82,7 @@ It includes fundamental SQL concepts, practice queries, and a mini project to he
 
 | Source                  | Link                    |
 | ----------------------- | ----------------------- |
-| Apna College SQL Course | https://www.youtube.com |
+| Apna College SQL Course | https://youtu.be/hlGoQC332VM?si=K1YrloYecFYQG0wM |
 
 ---
 

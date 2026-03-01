@@ -39,7 +39,7 @@ It includes fundamental SQL concepts, practice queries, and a mini project to he
 ## 📈 Progress Tracker
 
 * [x] Day 1 - Database Basics
-* [ ] Day 2 - CREATE TABLE
+* [x] Day 2 - CREATE TABLE
 * [ ] Day 3 - INSERT INTO
 * [ ] Day 4 - SELECT Queries
 * [ ] Day 5 - WHERE Clause

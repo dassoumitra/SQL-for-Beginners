@@ -35,27 +35,60 @@ The goal is to **build strong SQL fundamentals and practical database skills**.
 
 ## 🗺 SQL Learning Roadmap
 
-| Day | Topic | Status |
-|----|------|------|
-| 📘 Day 1 | Database Basics | 🟢 Completed |
-| 📘 Day 2 | SQL Data Types, SQL Commands, Keys & Constraints | 🟢 Completed |
-| 📘 Day 3 | SELECT Queries, DISTINCT, WHERE, Operators | 🟢 Completed |
-| 📘 Day 4 | Advanced WHERE Filtering | 🔵 Coming Soon |
-| 📘 Day 5 | ORDER BY Clause | 🔵 Coming Soon |
-| 📘 Day 6 | UPDATE and DELETE | 🔵 Coming Soon |
-| 📘 Day 7 | Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) | 🔵 Coming Soon |
-| 📘 Day 8 | GROUP BY | 🔵 Coming Soon |
-| 📘 Day 9 | HAVING Clause | 🔵 Coming Soon |
-| 📘 Day 10 | SQL JOINS | 🔵 Coming Soon |
-| 📘 Day 11 | Subqueries | 🔵 Coming Soon |
-| 📘 Day 12 | Views | 🔵 Coming Soon |
-| 📘 Day 13 | Indexes | 🔵 Coming Soon |
-| 🚀 Day 14 | SQL Mini Project | 🔵 Coming Soon |
+```
+📚 SQL Learning Path
+
+Day 1
+│
+├── What is Database
+├── DBMS
+├── RDBMS
+├── Tables
+├── Rows & Columns
+└── Importance of SQL
+
+
+Day 2
+│
+├── SQL Data Types
+├── Types of SQL Commands
+│   ├── DDL
+│   ├── DML
+│   └── DQL
+├── Database Related Queries
+├── Table Related Queries
+├── SQL Keys
+└── SQL Constraints
+
+
+Day 3
+│
+├── SELECT Statement
+├── DISTINCT Keyword
+├── WHERE Clause
+├── SQL Operators
+│   ├── AND
+│   ├── OR
+│   ├── BETWEEN
+│   ├── IN
+│   └── NOT
+├── LIMIT Clause
+└── ORDER BY
+```
 
 ---
 
-## 📊 Overall Learning Progress
+## 📈 Progress Tracker
 
-![Progress](https://progress-bar.dev/20/?title=SQL%20Learning%20Progress)
+- [x] Day 1 – Database Basics  
+- [x] Day 2 – SQL Data Types & Table Creation  
+- [x] Day 3 – SELECT Queries  
+- [ ] Day 4 – Coming Soon  
 
-Completed: **3 / 14 Days**
+---
+
+## 📖 Learning Resource
+
+🎥 **Apna College SQL Course**
+
+https://youtu.be/hlGoQC332VM?si=R91YNVzVdWuTV_YN

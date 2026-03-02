@@ -32,3 +32,30 @@ It includes:
 The goal is to **build strong SQL fundamentals and practical database skills**.
 
 ---
+
+## 🗺 SQL Learning Roadmap
+
+| Day | Topic | Status |
+|----|------|------|
+| 📘 Day 1 | Database Basics | 🟢 Completed |
+| 📘 Day 2 | SQL Data Types, SQL Commands, Keys & Constraints | 🟢 Completed |
+| 📘 Day 3 | SELECT Queries, DISTINCT, WHERE, Operators | 🟢 Completed |
+| 📘 Day 4 | Advanced WHERE Filtering | 🔵 Coming Soon |
+| 📘 Day 5 | ORDER BY Clause | 🔵 Coming Soon |
+| 📘 Day 6 | UPDATE and DELETE | 🔵 Coming Soon |
+| 📘 Day 7 | Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) | 🔵 Coming Soon |
+| 📘 Day 8 | GROUP BY | 🔵 Coming Soon |
+| 📘 Day 9 | HAVING Clause | 🔵 Coming Soon |
+| 📘 Day 10 | SQL JOINS | 🔵 Coming Soon |
+| 📘 Day 11 | Subqueries | 🔵 Coming Soon |
+| 📘 Day 12 | Views | 🔵 Coming Soon |
+| 📘 Day 13 | Indexes | 🔵 Coming Soon |
+| 🚀 Day 14 | SQL Mini Project | 🔵 Coming Soon |
+
+---
+
+## 📊 Overall Learning Progress
+
+![Progress](https://progress-bar.dev/20/?title=SQL%20Learning%20Progress)
+
+Completed: **3 / 14 Days**

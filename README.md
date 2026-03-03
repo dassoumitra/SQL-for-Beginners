@@ -74,6 +74,19 @@ Day 3
 │   └── NOT
 ├── LIMIT Clause
 └── ORDER BY
+
+
+Day 4
+│
+├── Aggregate Functions
+│   ├── COUNT()
+│   ├── SUM()
+│   ├── AVG()
+│   ├── MIN()
+│   └── MAX()
+├── GROUP BY Clause
+├── HAVING Clause
+└── General SQL Query Order
 ```
 
 ---
@@ -83,7 +96,8 @@ Day 3
 - [x] Day 1 – Database Basics  
 - [x] Day 2 – SQL Data Types & Table Creation  
 - [x] Day 3 – SELECT Queries  
-- [ ] Day 4 – Coming Soon  
+- [x] Day 4 – Aggregate Functions & GROUP BY  
+- [ ] Day 5 – Coming Soon  
 
 ---
 
@@ -92,3 +106,7 @@ Day 3
 🎥 **Apna College SQL Course**
 
 https://youtu.be/hlGoQC332VM?si=R91YNVzVdWuTV_YN
+
+---
+
+⭐ If you find this repository helpful, consider **starring the repo**.

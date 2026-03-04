@@ -87,17 +87,46 @@ Day 4
 ├── GROUP BY Clause
 ├── HAVING Clause
 └── General SQL Query Order
+
+
+Day 5
+│
+├── UPDATE Statement
+│
+├── DELETE Statement
+│
+├── Foreign Key Cascading
+│   │
+│   ├── ON DELETE CASCADE
+│   │
+│   └── ON UPDATE CASCADE
+│
+└── ALTER TABLE
+    │
+    ├── ADD COLUMN
+    │
+    ├── DROP COLUMN
+    │
+    ├── RENAME TABLE
+    │
+    ├── CHANGE COLUMN
+    │
+    └── MODIFY COLUMN
+
+
 ```
 
 ---
 
 ## 📈 Progress Tracker
 
-- [x] Day 1 – Database Basics  
-- [x] Day 2 – SQL Data Types & Table Creation  
-- [x] Day 3 – SELECT Queries  
-- [x] Day 4 – Aggregate Functions & GROUP BY  
-- [ ] Day 5 – Coming Soon  
+## 📝 Progress Tracker
+
+- [x] Day 1 – Database Basics
+- [x] Day 2 – SQL Data Types & Table Creation
+- [x] Day 3 – SELECT Queries
+- [x] Day 4 – Aggregate Functions & GROUP BY
+- [x] Day 5 – Table Related Queries (UPDATE, DELETE, ALTER, CASCADE) 
 
 ---
 

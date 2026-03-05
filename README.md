@@ -113,6 +113,27 @@ Day 5
     │
     └── MODIFY COLUMN
 
+Day 6
+│
+├── TRUNCATE
+│
+├── JOINS
+│   │
+│   ├── INNER JOIN
+│   │
+│   ├── LEFT JOIN
+│   │
+│   ├── RIGHT JOIN
+│   │
+│   ├── FULL JOIN
+│   │
+│   ├── LEFT EXCLUSIVE JOIN
+│   │
+│   ├── RIGHT EXCLUSIVE JOIN
+│   │
+│   └── SELF JOIN
+│
+└── UNION
 
 ```
 
@@ -127,7 +148,7 @@ Day 5
 - [x] Day 3 – SELECT Queries
 - [x] Day 4 – Aggregate Functions & GROUP BY
 - [x] Day 5 – Table Related Queries (UPDATE, DELETE, ALTER, CASCADE) 
-
+- [x] Day 6 – TRUNCATE, JOINS, UNION
 ---
 
 ## 📖 Learning Resource

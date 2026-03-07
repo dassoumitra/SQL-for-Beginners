@@ -135,29 +135,6 @@ Day 6
 │
 └── UNION
 
-Day 7
-│
-├── Subqueries
-│   ├── What is a Subquery
-│   ├── Types of Subqueries
-│   │   ├── Single Row Subquery
-│   │   ├── Multiple Row Subquery
-│   │   └── Correlated Subquery
-│   │
-│   ├── Subquery with SELECT
-│   ├── Subquery with WHERE
-│   ├── Subquery with FROM
-│   ├── Subquery with INSERT
-│   ├── Subquery with UPDATE
-│   └── Subquery with DELETE
-│
-├── Operators Used with Subqueries
-│   ├── IN
-│   ├── ANY
-│   ├── ALL
-│   └── EXISTS
-│
-└── Nested Subqueries
 
 Day 7
 │

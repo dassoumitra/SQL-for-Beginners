@@ -159,6 +159,34 @@ Day 7
 │
 └── Nested Subqueries
 
+Day 7
+│
+├── SQL Subqueries
+│
+├── Types of Subqueries
+│   │
+│   ├── Single Row Subquery
+│   │
+│   ├── Multiple Row Subquery
+│   │
+│   └── Correlated Subquery
+│
+├── Subquery with SELECT
+│
+├── Subquery with WHERE
+│
+├── Subquery with FROM
+│
+└── Subquery Operators
+    │
+    ├── IN
+    │
+    ├── EXISTS
+    │
+    ├── ANY
+    │
+    └── ALL
+
 ```
 
 ---

@@ -145,8 +145,13 @@ Day 7
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | ✅ |
 
 </td>
+</tr>
+</table>
 
+<table>
+<tr>
 <td width="40%" valign="top">
+
 ### Date - 13/03/26
 
 | # | Problem | Status |

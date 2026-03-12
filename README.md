@@ -136,6 +136,7 @@ Day 7
 <td width="40%" valign="top">
 
 ### 🧠 LeetCode SQL Practice
+### Date - 12/03/26
 
 | # | Problem | Status |
 |---|--------|--------|

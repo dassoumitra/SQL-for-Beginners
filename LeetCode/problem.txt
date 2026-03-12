@@ -1,0 +1,3 @@
+175 https://leetcode.com/problems/combine-two-tables/description/
+176 https://leetcode.com/problems/second-highest-salary/description/
+178 https://leetcode.com/problems/rank-scores/description/

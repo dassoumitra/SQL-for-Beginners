@@ -31,13 +31,15 @@ It includes:
 
 The goal is to **build strong SQL fundamentals and practical database skills**.
 
----
+## 🗺 SQL Learning Roadmap & 🧠 LeetCode SQL Practice
 
-## 🗺 SQL Learning Roadmap
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 📚 SQL Learning Path
 
 ```
-📚 SQL Learning Path
-
 Day 1
 │
 ├── What is Database
@@ -46,7 +48,6 @@ Day 1
 ├── Tables
 ├── Rows & Columns
 └── Importance of SQL
-
 
 Day 2
 │
@@ -59,7 +60,6 @@ Day 2
 ├── Table Related Queries
 ├── SQL Keys
 └── SQL Constraints
-
 
 Day 3
 │
@@ -75,7 +75,6 @@ Day 3
 ├── LIMIT Clause
 └── ORDER BY
 
-
 Day 4
 │
 ├── Aggregate Functions
@@ -88,85 +87,65 @@ Day 4
 ├── HAVING Clause
 └── General SQL Query Order
 
-
 Day 5
 │
 ├── UPDATE Statement
-│
 ├── DELETE Statement
-│
 ├── Foreign Key Cascading
-│   │
 │   ├── ON DELETE CASCADE
-│   │
 │   └── ON UPDATE CASCADE
-│
 └── ALTER TABLE
-    │
     ├── ADD COLUMN
-    │
     ├── DROP COLUMN
-    │
     ├── RENAME TABLE
-    │
     ├── CHANGE COLUMN
-    │
     └── MODIFY COLUMN
 
 Day 6
 │
 ├── TRUNCATE
-│
 ├── JOINS
-│   │
 │   ├── INNER JOIN
-│   │
 │   ├── LEFT JOIN
-│   │
 │   ├── RIGHT JOIN
-│   │
 │   ├── FULL JOIN
-│   │
 │   ├── LEFT EXCLUSIVE JOIN
-│   │
 │   ├── RIGHT EXCLUSIVE JOIN
-│   │
 │   └── SELF JOIN
-│
 └── UNION
-
 
 Day 7
 │
 ├── SQL Subqueries
-│
 ├── Types of Subqueries
-│   │
 │   ├── Single Row Subquery
-│   │
 │   ├── Multiple Row Subquery
-│   │
 │   └── Correlated Subquery
-│
 ├── Subquery with SELECT
-│
 ├── Subquery with WHERE
-│
 ├── Subquery with FROM
-│
 └── Subquery Operators
-    │
     ├── IN
-    │
     ├── EXISTS
-    │
     ├── ANY
-    │
     └── ALL
-
 ```
 
----
+</td>
+
+<td width="40%" valign="top">
+
+### 🧠 LeetCode SQL Practice
+
+| # | Problem | Status |
+|---|--------|--------|
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | ✅ |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | ✅ |
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | ✅ |
+
+</td>
+</tr>
+</table>
 
 ## 📝 Progress Tracker
 

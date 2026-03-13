@@ -136,6 +136,7 @@ Day 7
 <td width="40%" valign="top">
 
 ### 🧠 LeetCode SQL Practice
+
 ### Date - 12/03/26
 
 | # | Problem | Status |
@@ -144,13 +145,12 @@ Day 7
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | ✅ |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | ✅ |
 
-### Date - 13/03/26
+## 📅 13-03-2026
 
 | # | Problem | Status |
 |---|--------|--------|
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | ✅ |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | ✅ |
-| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | ✅ |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ✅ |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | ✅ |
 
 </td>
 </tr>

@@ -1,0 +1,5 @@
+175 https://leetcode.com/problems/combine-two-tables/description/
+176 https://leetcode.com/problems/second-highest-salary/description/
+178 https://leetcode.com/problems/rank-scores/description/
+181 https://leetcode.com/problems/employees-earning-more-than-their-managers/description/
+180 https://leetcode.com/problems/consecutive-numbers/

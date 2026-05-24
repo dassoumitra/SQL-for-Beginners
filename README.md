@@ -152,6 +152,15 @@ Day 7
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ✅ |
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | ✅ |
 
+### 📅 Date — 24/05/2026
+
+### 🧠 LeetCode Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | ✅ Solved |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | ✅ Solved |
+
 </td>
 </tr>
 </table>

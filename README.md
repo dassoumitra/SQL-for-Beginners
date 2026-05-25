@@ -161,6 +161,15 @@ Day 7
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | ✅ Solved |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | ✅ Solved |
 
+### 📅 Date — 25/05/2026
+
+### 🧠 LeetCode SQL Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | ✅ Solved |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | ✅ Solved |
+
 </td>
 </tr>
 </table>

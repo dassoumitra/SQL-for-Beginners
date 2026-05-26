@@ -170,6 +170,14 @@ Day 7
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | ✅ Solved |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | ✅ Solved |
 
+### 📅 Date — 26/05/2026
+
+### 🧠 LeetCode SQL Problems
+
+| # | Problem | Status |
+|---|--------|--------|
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | ✅ Solved |
+
 </td>
 </tr>
 </table>
